@@ -13,6 +13,9 @@ Feel free to add or make any changes.
 Adding a new folder called "ArcadeTones", it will contain newer additions.
 
 Added a software section. 
+
 When using RingtoneComposer make sure you are exporting as an RTTTL and not saving as a txt file.
+
 SendTone is usuful for minor edits and is very similar to nokring.
+
 Nokring is best for composing from scratch, also good for edits.
