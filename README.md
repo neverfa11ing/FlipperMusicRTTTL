@@ -19,3 +19,6 @@ When using RingtoneComposer make sure you are exporting as an RTTTL and not savi
 SendTone is usuful for minor edits and is very similar to nokring.
 
 Nokring is best for composing from scratch, also good for edits.
+
+![RTTTL-ringtone-diagram](https://user-images.githubusercontent.com/6899421/171048290-1e95c9ba-5c26-4e6b-a969-ecd6003c6423.gif)
+
