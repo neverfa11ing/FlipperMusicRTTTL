@@ -8,7 +8,6 @@ Subdirectories are currently not supported on the latest build.
 
 Make sure you are downloading the .txt file and not a .html for them to work.
 
-For the full archive download rtttl3.zip from this repo.
-I'll eventually get around to orgazing this better.
+Feel free to add or make any changes.
 
-Source (for zip archives): https://picaxe.com/rtttl-ringtones-for-tune-command/
+Adding a new folder called "ArcadeTones", it will contain newer additions.
