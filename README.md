@@ -22,3 +22,4 @@ Nokring is best for composing from scratch, also good for edits.
 
 ![RTTTL-ringtone-diagram](https://user-images.githubusercontent.com/6899421/171048290-1e95c9ba-5c26-4e6b-a969-ecd6003c6423.gif)
 
+An online RTTTL player is available here: https://adamonsoon.github.io/rtttl-play/
