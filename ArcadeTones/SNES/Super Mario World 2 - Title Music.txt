@@ -1,0 +1,1 @@
+smw2_title:d=4,o=5,b=125:g,8b,d,8b,8g,8b,a,8d6,e6,8d6,8b,8d6,g,8b,d,8b,8g,8b,a,8d6,e6,8d6,8b,8d6,g,8b,d,8b,8g,8b,a,8d6,e6,8d6,8b,8d6,g,8b,d,8b,8g,8b,a,8d6,e6,8d6,8b,8d6
