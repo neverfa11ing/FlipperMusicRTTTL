@@ -1,0 +1,1 @@
+dragula:d=4,o=5,b=125:d#,8c,8c,8c,8c,8c,d#.,8c,8c,8c,8c,8c,d#.,8c,8c,8c,8c,8c,8p,8d#,f,8f#,2f,d#,8c,8c,8c,8c,8c,d#.,8c,8c,8c,8c,8c,d#.,8c,8c,8c,8c,8c,8p,8d#,f,8f#,2f

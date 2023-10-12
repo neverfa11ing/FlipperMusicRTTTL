@@ -1,0 +1,1 @@
+jgr_yellow:d=4,o=5,b=160:e,8p,e,8p,1g,p,e,8p,e,8p,a.,g,8a,8a#,8a,g,e,8p,e,8p,1g,p,e,8p,e,8p,a.,g,8a,8a#,8a,g
