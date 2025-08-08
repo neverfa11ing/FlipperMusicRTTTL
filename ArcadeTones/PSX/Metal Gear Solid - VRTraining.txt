@@ -1,0 +1,1 @@
+VRTraining:d=4,o=5,b=125:e,b,c6,a,b,g,d#,e,e,b,c6,a,b,g,d#,e,e,b,c6,a,b,g,d#,e,e,b,c6,a,b,g,d#,e,e

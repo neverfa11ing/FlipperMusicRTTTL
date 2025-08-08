@@ -1,0 +1,1 @@
+favgame:d=4,o=5,b=140:8d#,8p,8d#,d.,p,8d#,8p,8d#,d.,p,8d#,8p,8d#,d.,p,d#.,8p,d.,8p,8d#,8p,8d#,d.,p,8d#,8p,8d#,d.,p,8d#,8p,8d#,d.,p,d#.,8p,d.,8c,g,f,8f,8c,8d#,f,2f,p,16d#,16p,8d#,8c,d#,8d#,8c,d#,8f,d#,8d#,f,g.,c.,d#,f.,d#.,f,1d,p,f,g.,c.,d#,8f,2d#,8d,1d,8p,f,g.,c.,d#,f.,2d#,8p,g.,c.,d#,f.,2d#,8p,g.,c.,d#,8f,2d#,8d,1d

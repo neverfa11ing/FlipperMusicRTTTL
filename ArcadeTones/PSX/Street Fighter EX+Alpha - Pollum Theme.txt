@@ -1,0 +1,1 @@
+sfex_pullum:d=4,o=5,b=250:d,8a,8a,a,2b,d,d,f,g,2a,g,8f#,8g,g,a,g,c,8g,8g,g,2a,d,d,f,e,2a,d,8e,8e,e,g,f,d,8f,8f,f,g,a,a,a,g,g,8e,8e,f,g,e,f,e,d,a,8a,8a,a,b,c#6,b,a,e,c#,b4,2c#,e,d,2e
