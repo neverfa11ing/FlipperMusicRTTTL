@@ -1,0 +1,1 @@
+fair:d=4,o=5,b=100:g,d,2d#,f,f,2g,g,d,2d#,f,f,2g,g,8g.,16g6,2d#,f,8d.,16f,2g,g,d,2d#,f,d,2g4

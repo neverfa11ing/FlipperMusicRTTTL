@@ -1,0 +1,1 @@
+aufmonty:d=4,o=5,b=225:d,g,a,8a#,a.,g,8a,a#.,f,a#,c6,8d6,c.6,2a#.,d6,d6,f#6,8d6,c.6,2d.6,d6,f#6,8d6,c.6,c6,8a#,a.,d,g,a,8a#,a.,g,8a,a#.,f,a#,c6,8d6,c.6,2a#.,d6,d6,f#6,8d6,c.6,d6,8f#6,2g6,p,2a6,2a6,g6,2g6,2g,a#,g,c6,2a#,2g,f,1f,2f,e,1e.,p,e,f,f#,g,2g,a#,g,c6,2a#,2d#6,d6,1d6,2d6,c6,1c6

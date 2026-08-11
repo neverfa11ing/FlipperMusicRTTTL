@@ -1,0 +1,1 @@
+toas:d=4,o=5,b=225:e,e,8g,8g#,e,e,d,c#,e,e,e,8g,8g#,8d,8e,1p,e,e,8g,8g#,e,e,d,c#,e,e,e,8g,8g#,8d,8e,1p,e,e,8g,8g#,e,e,d,c#,e,e,e,8g,8g#,8d,8e,8f,f,8f,8f#,f#,8f#,8g,g,8g,8g#,g#,8g#,8c6,8c#6,e6,e6,8c#6,8e6,8f#6,8e6,c6,16b,16p,a,8p,8c6,8c#6,e6,e6,8c#6,8e6,8a6,8a6,g6,e6,8p,8e6,8e6,8f#6,8a6,8p,8a6,8p,8a6,8p,f#6,e6,c6,b,a

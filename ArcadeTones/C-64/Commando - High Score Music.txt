@@ -1,0 +1,1 @@
+commando_high:d=4,o=5,b=112:2c#.6,b,8d6,c#6,b,c#.6,2a.,a,8a,g#,f#.,8g#,8a,2c#.6,b,8d6,c#6,b,c#.6,2a.,a,8a,g#,f#.,e.,2e.,8f#,8a,a,2g#,8a,8b,c#6,2b,8c#6,8d6,d6,c#6,b,a
