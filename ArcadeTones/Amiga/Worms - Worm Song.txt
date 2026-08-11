@@ -1,0 +1,1 @@
+wormsong:d=4,o=5,b=112:g,a,b.,8d6,d6,8c6,8b,8a.,16g,8a,8b,2a,32p,8a.,16g,8a,8b,2e,32p,8a.,16g,8a,8b,a,8g,8a,b.,8d6,d6,8c6,8b,8a.,16g,8a,8b,2a,32p,8a.,16g,8a,8b,2e,32p,8a.,16g,8a,8b,a
