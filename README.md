@@ -1,9 +1,6 @@
 # FlipperMusicRTTTL
 Selection of RTTTL .txt files that will work with the FIipperZero Music Player. 
 
-~~Create a "music_player" folder on the root of the SD card, place files inside that folder.
-Subdirectories are currently not supported on the latest build.~~
-
 Create a folder under:
 ```
 apps_data\music_player
